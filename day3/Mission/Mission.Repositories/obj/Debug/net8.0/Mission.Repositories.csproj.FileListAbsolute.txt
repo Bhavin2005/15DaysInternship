@@ -1,0 +1,16 @@
+E:\15daysinternship\day3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+E:\15daysinternship\day3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+E:\15daysinternship\day3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+E:\15daysinternship\day3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+E:\15daysinternship\day3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.sourcelink.json
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+E:\15daysinternship\day3\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll

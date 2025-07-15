@@ -1,0 +1,13 @@
+E:\15daysinternship\day3\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+E:\15daysinternship\day3\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+E:\15daysinternship\day3\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.sourcelink.json
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+E:\15daysinternship\day3\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
